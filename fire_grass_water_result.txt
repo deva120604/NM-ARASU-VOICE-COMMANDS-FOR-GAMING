@@ -1,0 +1,3 @@
+Player: Grass
+Opponent: Fire
+Result: Opponent wins! 🔥 beats 🌿
